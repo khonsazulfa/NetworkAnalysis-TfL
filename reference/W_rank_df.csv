@@ -1,0 +1,11 @@
+rank,eigen_c_w,eigen,closeness_c_w,clos_value_w,betweenness_c_w,bet_value_w
+1,Waterloo,0.543068594366578,Green Park,2402.8786486210483,Green Park,44468.75
+2,Bank and Monument,0.49120431716676277,Westminster,2396.963526604496,Bank and Monument,40304.0
+3,Westminster,0.43073691275099046,Waterloo,2392.2114380001585,Waterloo,30609.5
+4,Green Park,0.3048418635756903,Bank and Monument,2388.092493210355,Westminster,28156.75
+5,Liverpool Street,0.25350326621786884,Oxford Circus,2381.6512821917395,Liverpool Street,26481.0
+6,Moorgate,0.14431742515576299,Bond Street,2368.802398649309,Stratford,26345.0
+7,Oxford Circus,0.1234704398131599,Liverpool Street,2366.2744369597867,Euston,22535.25
+8,London Bridge,0.1193744477573686,Victoria,2358.188840225043,Oxford Circus,20447.0
+9,Stratford,0.10894690354959319,Warren Street,2357.403602819927,Bond Street,19994.75
+10,Bond Street,0.10407734600942188,Hyde Park Corner,2351.7514669049788,Baker Street,19621.5

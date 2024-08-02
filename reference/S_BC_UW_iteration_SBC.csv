@@ -1,0 +1,11 @@
+iteration,node_removed,bc_score,big_component_size,num_component,average_path_length
+1,Stratford,23768.09,379,3,14.5
+2,King's Cross St. Pancras,19632.88,378,3,15.31
+3,Waterloo,20080.98,377,3,15.8
+4,Bank and Monument,16872.85,376,3,16.79
+5,Canada Water,19153.84,375,3,19.03
+6,West Hampstead,35548.32,227,4,13.46
+7,Earl's Court,7446.48,226,4,14.21
+8,Shepherd's Bush,9925.22,196,5,13.79
+9,Euston,6673.09,173,6,13.82
+10,Baker Street,7505.33,170,7,18.19

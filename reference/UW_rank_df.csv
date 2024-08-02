@@ -1,0 +1,11 @@
+rank,degree_c_uw,deg_value_uw,closeness_c_uw,clos_value_uw,betweenness_c_uw,bet_value_uw
+1,Stratford,0.0225,Holborn,7.924128201033766e-05,Stratford,23768.09343434338
+2,Bank and Monument,0.02,King's Cross St. Pancras,7.907301441907629e-05,Bank and Monument,23181.05894660898
+3,Baker Street,0.0175,Tottenham Court Road,7.887824676148317e-05,Liverpool Street,21610.387049062025
+4,King's Cross St. Pancras,0.0175,Oxford Circus,7.872981849500811e-05,King's Cross St. Pancras,20373.521464646412
+5,Liverpool Street,0.015,Leicester Square,7.834615373198558e-05,Waterloo,19464.88232323234
+6,Canning Town,0.015,Piccadilly Circus,7.830867875845161e-05,Green Park,17223.622113997102
+7,West Ham,0.015,Charing Cross,7.829950574546094e-05,Euston,16624.27546897546
+8,Earl's Court,0.015,Chancery Lane,7.822830239501033e-05,Westminster,16226.155916305926
+9,Oxford Circus,0.015,Covent Garden,7.806560681858546e-05,Baker Street,15287.107611832662
+10,Waterloo,0.015,Embankment,7.798926307137367e-05,Finchley Road,13173.758008657976
