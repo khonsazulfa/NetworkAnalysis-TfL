@@ -47,3 +47,6 @@ Closed Station:
 
 - Heavy snow accumulated on all tracks above the ground
 - Stations located on the over ground tracks are closed
+
+## Workflow Chart
+
