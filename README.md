@@ -43,7 +43,7 @@ Closed Station:
 - **Mill Hill East:** Northern Line closure caused by icy conditions.
 - **Richmond and Stratford:** Affected by snow, leading to station shutdowns and limited accessibility.
 
-Worst case scenario on 2024:
+### Worst case scenario on 2024:
 
 - Heavy snow accumulated on all tracks above the ground
 - Stations located on the over ground tracks are closed
