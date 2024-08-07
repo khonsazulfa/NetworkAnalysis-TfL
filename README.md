@@ -1,8 +1,8 @@
-## Problem Statement
+## Background
 
-The United Kingdom experienced one of its harshest winters in decades at the end of 2010, with temperatures dropping below -10°C (14°F) in some areas and persistent snowfalls across the country, including London. This unprecedented cold spell led to major disruptions in the London Underground network due to the accumulation of snow and ice on tracks, affecting both the trains and stations. The most severe period, with widespread closures and disruptions occured in December 13-20, 2010. In response to the severe winter disruption, the government and Transport for London (TfL) implemented various measures to mitigate the impact and restore normal services.
+The United Kingdom experienced one of its harshest winters in decades at the end of 2010, with temperatures dropping below -10°C (14°F) in some areas and persistent snowfalls across the country, including London. This unprecedented cold spell led to major disruptions in the London Underground network due to the accumulation of snow and ice on tracks, affecting both the trains and stations. The most severe period, with widespread closures and disruptions occured in December 13-20, 2010. Approximately 70-80 million passenger journeys were affected during the disruption. In response to the severe winter disruption, the government and Transport for London (TfL) implemented various measures to mitigate the impact and restore normal services.
 
-While it’s challenging to predict future events, experts believe that severe winter conditions like those experienced in 2010 could occur again in the near future, with climate change contributing to weather extremes
+While it’s challenging to predict future events, experts believe that severe winter conditions like those experienced in 2010 could occur again in the near future, with climate change contributing to weather extremes. Therefore, it is essential to evaluate the past event and measures being taken and prepare the worst case scneario and plan in the future the in order to minimize possible disruption.
 
 ## Aim and Objectives
 
