@@ -50,7 +50,7 @@ Closed Station:
 
 ## Performance Metrices
 
-- Travel time or delay time
+- Average Path Length
   
 ## Workflow Chart
 
