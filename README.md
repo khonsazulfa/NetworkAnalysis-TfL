@@ -27,7 +27,7 @@ This objectives of this study:
 
 Disrupted line:
 
-- **Central Line:** Closed from West Ruislip to North Acton due to ice on tracks.
+- **Central Line:** <u>Closed from West Ruislip to North Acton<u/>  due to ice on tracks.
 - **Metropolitan Line:** Sections closed, particularly north of Harrow-on-the-Hill, where heavy snow accumulated on tracks.
 - **Northern Line:** Partial closure between Mill Hill East and Finchley Central because of ice build-up.
 - **London Overground:** Severe closures, especially in suburban areas like Watford Junction, where trains couldn't operate due to snow and ice.
