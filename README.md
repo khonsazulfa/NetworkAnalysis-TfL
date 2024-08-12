@@ -27,12 +27,12 @@ This objectives of this study:
 #### Disrupted line and station:
 
 **Central Line:**
-    - Closed from West Ruislip to Hanger Lane
-    - Those who terminated at the closed stations would alight at North Acton
-    - Those who departed from those closed station would take the nearest open station to continue their trip:
-        - West Ruislip, Ruislip Garden, and South Ruislip passengers would depart from Ruislip st (Metropolitan line).
-        - Northole and Greenford passengers would depart from Sudburry Hill (Piccadilly line)
-        - Perivale and Hanger Lane passengers would depart from Park Royal (Piccadilly line)
+- Closed from West Ruislip to Hanger Lane
+- Those who terminated at the closed stations would alight at North Acton
+- Those who departed from those closed station would take the nearest open station to continue their trip:
+-     West Ruislip, Ruislip Garden, and South Ruislip passengers would depart from Ruislip st (Metropolitan line).
+-     Northole and Greenford passengers would depart from Sudburry Hill (Piccadilly line)
+-     Perivale and Hanger Lane passengers would depart from Park Royal (Piccadilly line)
 
 **Metropolitan Line:**
     - Closed from Harrow-on-the-Hill to the Chesam Station
@@ -40,9 +40,9 @@ This objectives of this study:
     - Those who departed from those closed station would depart at Northwick Park
       
 **Northern Line:**
-    - Closed from Finchley Central to upnorth
-    - Those who terminated at the closed stations would alight at East Finchley
-    - Those who departed from those closed station would depart at East Finchley
+- Closed from Finchley Central to upnorth
+- Those who terminated at the closed stations would alight at East Finchley
+- Those who departed from those closed station would depart at East Finchley
 
 No clear information on disruption on the other lines, let's assume other lines worked normally.
 Other assumptions includes bus worked normally and no severe traffic on the road, thus passengers can use alternative road-based transport to reach the stations.
