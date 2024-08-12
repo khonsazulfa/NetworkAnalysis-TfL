@@ -69,3 +69,4 @@ Let's assume:
   
 ## Workflow Chart
 
+![Screen Shot 2024-08-12 at 11 22 14](https://github.com/user-attachments/assets/f4eeb7a9-a810-40a4-b7eb-c83a82511d2f)
