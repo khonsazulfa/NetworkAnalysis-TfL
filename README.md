@@ -6,24 +6,20 @@ While it’s challenging to predict future events, experts believe that severe w
 
 ## Aim and Objectives
 
-This study aims o analyze the London Underground network's performance during Business-as-Usual (BAU) and disruption scenarios in December 2010 and December 2024. The output of this study will evaluate the effectiveness of government measures during the 2010 disruption and provide actionable insights to improve resilience against future winter disruptions.
+This study aims to analyze the London Underground network's performance during Business-as-Usual (BAU) and disruption scenarios in December 2010 using the latest data (2024). The output of this study will evaluate the effectiveness of government measures during the 2010 disruption and provide actionable insights to improve resilience against future winter disruptions.
 
 This objectives of this study:
 
-- Develop network analysis on underground network during BAU (business-as-usual) on 2010 December
-- Develop network analysis on underground network during winter disruption on 2010 December
 - Evaluate government’s measure on the 2010 December travel disruption
-- Develop network analysis on underground network during BAU (business-as-usual) on 2024 December
-- Simulate network analysis on underground network during winter disruption on 2024 December, based on scenario:
-    - Stations closure and line disrupted on 2010 December case
-    - Worst case condition where all track above the ground will be icy and disrup the train
+- Develop network analysis on underground network during BAU (business-as-usual) on 2024.
+- Simulate network analysis on underground network during winter disruption on 2024, using 2010 December scenario
+- Evaluate past government’s measure on the 2010 December travel disruption using 2024 travel data
 - Suggesting action to be taken to to alleviate congestion and minimize delays within Underground network
 
 ## Data
 
-1. Underground station and lines in 2010 and 2024
-2. Underground trips in December 13th 2010
-3. Projection on undeground trip in December 13th 2024 or Underground trip in December 13th 2023
+1. Underground station and lines in 2024
+2. Underground trips in 2024
 
 ## Scenario
 
@@ -43,14 +39,10 @@ Closed Station:
 - **Mill Hill East:** Northern Line closure caused by icy conditions.
 - **Richmond and Stratford:** Affected by snow, leading to station shutdowns and limited accessibility.
 
-### Worst case scenario on 2024:
-
-- Heavy snow accumulated on all tracks above the ground
-- Stations located on the over ground tracks are closed
 
 ## Performance Metrices
 
-- Average Path Length
+- Average Path Length: The average distance between the origin and destination for all the trips
   
 ## Workflow Chart
 
