@@ -24,13 +24,44 @@ This objectives of this study:
 
 ### 2010
 
-Disrupted line and station:
+#### Disrupted line and station:
 
-- **Central Line:** Closed from West Ruislip to North Acton
-- **Metropolitan Line:** Sections closed from Harrow-on-the-Hill to the upnorth
-- **Northern Line:** Closed between Mill Hill East and Finchley Central
-- **London Overground:** All lines closed
+**Central Line:**
+    - Closed from West Ruislip to Hanger Lane
+    - Those who terminated at the closed stations would alight at North Acton
+    - Those who departed from those closed station would take the nearest open station to continue their trip:
+        - West Ruislip, Ruislip Garden, and South Ruislip passengers would depart from Ruislip st (Metropolitan line).
+        - Northole and Greenford passengers would depart from Sudburry Hill (Piccadilly line)
+        - Perivale and Hanger Lane passengers would depart from Park Royal (Piccadilly line)
 
+**Metropolitan Line:**
+    - Closed from Harrow-on-the-Hill to the Chesam Station
+    - Those who terminated at the closed stations would alight at Northwick Park
+    - Those who departed from those closed station would depart at Northwick Park
+      
+**Northern Line:**
+    - Closed from Finchley Central to upnorth
+    - Those who terminated at the closed stations would alight at East Finchley
+    - Those who departed from those closed station would depart at East Finchley
+
+No clear information on disruption on the other lines, let's assume other lines worked normally.
+Other assumptions includes bus worked normally and no severe traffic on the road, thus passengers can use alternative road-based transport to reach the stations.
+
+Although in the real situation road might be busier and had severe traffic due to icy surface, this study will limit the scope of analysis only for TfL Underground network analysis. 
+    
+#### Government intevention:
+
+**Victoria Line:**
+Passengers intended to take/depart at Northern Line from High Barnet to Finchley Central (Northern line) were advsised to take/depart at Highbury Islington (Victoria line).
+Let's assume:
+- 50% passenger departed from the closed stations went to East Finchley st, and 50% went to Highbury Islington st
+- 50% passenger terminated to the closed stations alight at East Finchley st, and 50% alight to Highbury Islington st
+
+**Bakerloo Line:**
+Passengers intended to take/depart at Northwick Park (Metropolitan line) were advsised to take/depart at Kenton st (Bakerloo line)
+Let's assume:
+- 50% passenger departed from the closed stations went to Northwick Park st, and 50% went to Kenton st
+- 50% passenger terminated to the closed stations alight at Northwick Park st, and 50% alight to Kenton st
 
 ## Performance Metrices
 
