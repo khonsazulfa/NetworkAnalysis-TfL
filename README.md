@@ -10,7 +10,6 @@ This study aims to analyze the London Underground network's performance during B
 
 This objectives of this study:
 
-- Evaluate government’s measure on the 2010 December travel disruption
 - Develop network analysis on underground network during BAU (business-as-usual) on 2024.
 - Simulate network analysis on underground network during winter disruption on 2024, using 2010 December scenario
 - Evaluate past government’s measure on the 2010 December travel disruption using 2024 travel data
