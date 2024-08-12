@@ -30,14 +30,14 @@ This objectives of this study:
 - Closed from West Ruislip to Hanger Lane
 - Those who terminated at the closed stations would alight at North Acton
 - Those who departed from those closed station would take the nearest open station to continue their trip:
--     West Ruislip, Ruislip Garden, and South Ruislip passengers would depart from Ruislip st (Metropolitan line).
--     Northole and Greenford passengers would depart from Sudburry Hill (Piccadilly line)
--     Perivale and Hanger Lane passengers would depart from Park Royal (Piccadilly line)
+1. West Ruislip, Ruislip Garden, and South Ruislip passengers would depart from Ruislip st (Metropolitan line).
+2. Northole and Greenford passengers would depart from Sudburry Hill (Piccadilly line)
+3. Perivale and Hanger Lane passengers would depart from Park Royal (Piccadilly line)
 
 **Metropolitan Line:**
-    - Closed from Harrow-on-the-Hill to the Chesam Station
-    - Those who terminated at the closed stations would alight at Northwick Park
-    - Those who departed from those closed station would depart at Northwick Park
+- Closed from Harrow-on-the-Hill to the Chesam Station
+- Those who terminated at the closed stations would alight at Northwick Park
+- Those who departed from those closed station would depart at Northwick Park
       
 **Northern Line:**
 - Closed from Finchley Central to upnorth
